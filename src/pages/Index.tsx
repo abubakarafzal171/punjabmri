@@ -121,7 +121,7 @@ const HeroSection = () => (
           style={{ animationDelay: "0.3s" }}
         >
           <a
-            href="tel:03048359994"
+            href="tel:03036330010"
             className="flex items-center justify-center gap-2 bg-primary text-primary-foreground px-8 py-4 rounded-xl text-lg font-bold hover:opacity-90 transition-all shadow-medical"
           >
             <Phone className="w-5 h-5" />
