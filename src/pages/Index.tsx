@@ -395,7 +395,7 @@ const ContactSection = () => (
           {
             icon: Phone,
             title: "فون",
-            text: "0304-8359994",
+            text: "0303-6330010",
             href: "tel:03036330010",
           },
           {
